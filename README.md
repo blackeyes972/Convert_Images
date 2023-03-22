@@ -1,2 +1,2 @@
 # Convert_Images
-convert your images to multiple formats
+Script that with PIL (Python Imaging Library) allows you to convert images into various formats
